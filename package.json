@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "prompt": "^1.3.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "latest-javascript-by-code-with-harry",
+  "version": "1.0.0",
+  "description": "JavaScript Practice",
+  "main": "01_introToJS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
